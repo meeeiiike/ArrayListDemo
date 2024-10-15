@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435a4e32-46d8-4693-936f-2a626d9c6765" name="Changes" comment="New Project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week5/ArrayListDemo.java" afterDir="false" />
+    <list default="true" id="435a4e32-46d8-4693-936f-2a626d9c6765" name="Changes" comment="created array list, added 10 values and print values using print method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week5/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week5/ArrayListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nTjZLz5H0JXRxxpWgVZbAyetPa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,7 +42,7 @@
     "Application.ArrayListDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "creating-array-list",
+    "git-widget-placeholder": "resize-array-list",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
