@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435a4e32-46d8-4693-936f-2a626d9c6765" name="Changes" comment="created array list, added 10 values and print values using print method">
+    <list default="true" id="890aeacd-e7af-4357-ad15-2e79dccbc285" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week5/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week5/ArrayListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,34 +21,30 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2nTjZLz5H0JXRxxpWgVZbAyetPa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2nWLUUeOHr8BQ5Mb5SWxr1T3Qna" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ArrayListDemo.executor": "Run",
-    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "resize-array-list",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/G00407095@atu.ie/OneDrive - Atlantic TU/OOP 2024 2025/HashMapDemo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,29 +59,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="435a4e32-46d8-4693-936f-2a626d9c6765" name="Changes" comment="" />
-      <created>1729004017752</created>
+      <changelist id="890aeacd-e7af-4357-ad15-2e79dccbc285" name="Changes" comment="" />
+      <created>1729083901236</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729004017752</updated>
-      <workItem from="1729004018611" duration="1330000" />
+      <updated>1729083901236</updated>
+      <workItem from="1729083902217" duration="84000" />
+      <workItem from="1729084095848" duration="78000" />
+      <workItem from="1729084175703" duration="2104000" />
+      <workItem from="1729090732842" duration="895000" />
     </task>
-    <task id="LOCAL-00001" summary="New Project">
-      <option name="closed" value="true" />
-      <created>1729004176907</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1729004176907</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="New Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Project" />
   </component>
 </project>
